@@ -1,0 +1,7 @@
+app-emulation/virtualbox ~amd64
+app-emulation/virtualbox-modules ~amd64
+dev-util/kbuild ~amd64
+
+app-emulation/virtualbox-bin ~amd64
+x11-drivers/xf86-video-virtualbox ~amd64
+app-emulation/virtualbox-additions ~amd64

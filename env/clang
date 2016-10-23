@@ -1,0 +1,5 @@
+CC="clang"
+CXX="clang++"
+CFLAG="${CFLAGS} -flto"
+CXXFLAGS="${CFLAGS} -flto"
+LD="ld.bfd"

@@ -1,0 +1,59 @@
+# required by dev-go/mux-0_p20160827::mrueg
+# required by app-emulation/acbuild-0.4.0::mrueg
+# required by @selected
+# required by @world (argument)
+=dev-go/context-0_p20160817 ~amd64
+# required by app-emulation/acbuild-0.4.0::mrueg
+# required by @selected
+# required by @world (argument)
+=dev-go/mux-0_p20160827 ~amd64
+# required by app-emulation/acbuild-0.4.0::mrueg
+# required by @selected
+# required by @world (argument)
+=app-emulation/docker-registry-2.5.0 ~amd64
+
+# required by dev-python/docker-py-1.10.3::gentoo
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/docker-pycreds-0.2.1 ~amd64
+# required by dev-python/docker-py-1.10.3::gentoo
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/websocket-client-0.37.0 ~amd64
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/cached-property-1.3.0 ~amd64
+# required by dev-python/docker-py-1.10.3::gentoo[python_targets_python3_4,python_targets_python2_7]
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/backports-ssl-match-hostname-3.5.0.1-r1 ~amd64
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/jsonschema-2.5.1-r2 ~amd64
+# required by dev-python/jsonschema-2.5.1-r2::gentoo[python_targets_python2_7,-python_targets_pypy]
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/functools32-3.2.3 ~amd64
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/docker-py-1.10.3 ~amd64
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/texttable-0.8.3 ~amd64
+# required by dev-python/jsonschema-2.5.1-r2::gentoo
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/webcolors-1.5 ~amd64
+# required by dev-python/jsonschema-2.5.1-r2::gentoo
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/strict-rfc3339-0.7 ~amd64
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/dockerpty-0.4.1 ~amd64
+# required by docker-compose (argument)
+=app-emulation/docker-compose-1.8.1 ~amd64
+# required by dev-python/jsonschema-2.5.1-r2::gentoo
+# required by app-emulation/docker-compose-1.8.1::gentoo
+# required by docker-compose (argument)
+=dev-python/vcversioner-2.16.0.0 ~amd64

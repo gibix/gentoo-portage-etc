@@ -1,0 +1,3 @@
+app-emulation/rkt ~amd64
+app-emulation/appc-spec ~amd64
+app-emulation/acbuild ~amd64
