@@ -1,4 +1,4 @@
-# required by www-client/google-chrome (argument)
->=www-client/google-chrome-51.0.2704.106 google-chrome
+www-client/google-chrome google-chrome
 net-im/skype skype-4.0.0.7-copyright
 app-emulation/virtualbox-bin PUEL
+app-arch/rar RAR
