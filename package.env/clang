@@ -1,2 +1,3 @@
 www-client/chromium clang
 app-admin/keepassx clang
+sys-apps/grep clang
