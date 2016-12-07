@@ -1,0 +1,5 @@
+app-office/libreoffice ~amd64
+app-office/libreoffice-l10n ~amd64
+dev-libs/libixion ~amd64
+dev-libs/liborcus ~amd64
+dev-util/mdds ~amd64
