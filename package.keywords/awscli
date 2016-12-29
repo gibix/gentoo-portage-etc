@@ -1,0 +1,5 @@
+dev-python/s3transfer ~amd64
+dev-python/botocore ~amd64
+dev-python/jmespath ~amd64
+dev-python/awscli ~amd64
+
