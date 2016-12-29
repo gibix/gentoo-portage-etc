@@ -1,1 +1,10 @@
-app-emulation/vagrant-bin ~amd64
+app-editors/wxhexeditor ~amd64
+=dev-ruby/listen-3.1.5 ~amd64
+=dev-ruby/pkg-config-1.1.7 ~amd64
+=dev-ruby/hashicorp-checkpoint-0.1.4-r1 ~amd64
+=dev-ruby/net-ssh-3.2.0 ~amd64
+=app-emulation/vagrant-1.8.7 ~amd64
+=dev-ruby/rb-inotify-0.9.7-r1 ~amd64
+=dev-ruby/ruby_dep-1.5.0 ~amd64
+=dev-ruby/nokogiri-1.6.8.1 ~amd64
+=dev-ruby/bundler-1.12.6 ~amd64
