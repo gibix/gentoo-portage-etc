@@ -1,2 +1,3 @@
 sys-fs/fuse
 sys-fs/lvm2
+sys-fs/encfs
