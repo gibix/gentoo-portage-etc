@@ -15,3 +15,4 @@ dev-python/dockerpty ~amd64
 app-emulation/docker-compose ~amd64
 dev-python/vcversioner ~amd64
 dev-python/ipaddress ~amd64
+dev-python/colorama ~amd64
