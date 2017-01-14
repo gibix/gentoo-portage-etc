@@ -1,4 +1,4 @@
-app-portage/layman sync-plugin-portage git subversion
-media-libs/mlt ffmpeg
+app-portage/layman git subversion sync-plugin-portage
 media-libs/harfbuzz icu
+media-libs/mlt ffmpeg
 sys-libs/libseccomp static-libs

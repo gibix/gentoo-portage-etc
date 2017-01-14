@@ -1,2 +1,2 @@
-sys-devel/llvm clang gold X86 -AMDGPU
+sys-devel/llvm clang gold
 

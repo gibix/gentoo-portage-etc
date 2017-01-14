@@ -1,4 +1,3 @@
 dev-libs/libgit2 ssh
 dev-libs/libxml2 icu
-dev-libs/openssl bindist
 media-video/ffmpeg opus vpx

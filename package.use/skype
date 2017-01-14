@@ -1,10 +1,12 @@
-net-im/skype plasma pulseaudio -apulse
 app-arch/bzip2                    abi_x86_32
+dev-db/mariadb abi_x86_32
 dev-db/sqlite                     abi_x86_32
 dev-lang/orc                      abi_x86_32
 dev-libs/expat                    abi_x86_32
 dev-libs/glib                     abi_x86_32
 dev-libs/gmp                      abi_x86_32
+dev-libs/icu abi_x86_32
+dev-libs/libdbusmenu-qt abi_x86_32
 dev-libs/libffi                   abi_x86_32
 dev-libs/libgcrypt                abi_x86_32
 dev-libs/libgpg-error             abi_x86_32
@@ -13,6 +15,8 @@ dev-libs/libtasn1                 abi_x86_32
 dev-libs/libxml2                  abi_x86_32
 dev-libs/nettle                   abi_x86_32
 dev-libs/openssl                  abi_x86_32
+
+dev-libs/sni-qt abi_x86_32
 dev-qt/qt3support                 abi_x86_32
 dev-qt/qtcore:4                   abi_x86_32
 dev-qt/qtdbus:4                   abi_x86_32
@@ -32,11 +36,13 @@ media-libs/libjpeg-turbo          abi_x86_32
 media-libs/libmng                 abi_x86_32
 media-libs/libpng                 abi_x86_32
 media-libs/tiff                   abi_x86_32
+net-im/skype -apulse plasma pulseaudio
 net-libs/gnutls                   abi_x86_32
 net-print/cups                    abi_x86_32
 sys-apps/attr                     abi_x86_32
 sys-apps/dbus                     abi_x86_32
 sys-apps/util-linux               abi_x86_32
+sys-libs/gpm abi_x86_32
 sys-libs/ncurses                  abi_x86_32
 sys-libs/readline                 abi_x86_32
 sys-libs/zlib                     abi_x86_32
@@ -44,6 +50,8 @@ virtual/jpeg:0                    abi_x86_32
 virtual/libffi                    abi_x86_32
 virtual/libiconv                  abi_x86_32
 virtual/libintl                   abi_x86_32
+virtual/libmysqlclient abi_x86_32
+virtual/mysql abi_x86_32
 virtual/pkgconfig                 abi_x86_32
 x11-libs/libICE                   abi_x86_32
 x11-libs/libSM                    abi_x86_32
@@ -55,6 +63,7 @@ x11-libs/libXdmcp                 abi_x86_32
 x11-libs/libXext                  abi_x86_32
 x11-libs/libXfixes                abi_x86_32
 x11-libs/libXi                    abi_x86_32
+x11-libs/libXinerama abi_x86_32
 x11-libs/libXrandr                abi_x86_32
 x11-libs/libXrender               abi_x86_32
 x11-libs/libXv                    abi_x86_32
@@ -69,14 +78,5 @@ x11-proto/videoproto              abi_x86_32
 x11-proto/xcb-proto               abi_x86_32
 x11-proto/xextproto               abi_x86_32
 x11-proto/xf86bigfontproto        abi_x86_32
-x11-proto/xproto                  abi_x86_32
-
-dev-libs/sni-qt abi_x86_32
-virtual/libmysqlclient abi_x86_32
-dev-libs/libdbusmenu-qt abi_x86_32
-virtual/mysql abi_x86_32
-sys-libs/gpm abi_x86_32
 x11-proto/xineramaproto abi_x86_32
-dev-db/mariadb abi_x86_32
-dev-libs/icu abi_x86_32
-x11-libs/libXinerama abi_x86_32
+x11-proto/xproto                  abi_x86_32

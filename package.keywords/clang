@@ -1,4 +1,4 @@
+dev-util/cmake ~amd64
 sys-devel/clang ~amd64
 sys-devel/clang-runtime ~amd64
-dev-util/cmake ~amd64
 sys-libs/libomp ~amd64
