@@ -1,0 +1,6 @@
+CC="clang"
+CXX="clang++"
+CFLAG="${CFLAGS} -flto=thin -stdlib=libc++"
+CXXFLAGS="${CFLAGS} -flto=thin"
+LDFLAGS="-Wl,-O2 -Wl,--as-needed"
+LD="ld.gold"
