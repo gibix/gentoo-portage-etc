@@ -1,1 +1,1 @@
-sys-devel/llvm clang gold default-compiler-rt default-libcxx
+sys-devel/llvm clang default-compiler-rt default-libcxx gold

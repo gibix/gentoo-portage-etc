@@ -1,5 +1,5 @@
 sys-devel/llvm ~amd64
-sys-libs/llvm-libunwind ~amd64
 sys-libs/libcxx ~amd64
 sys-libs/libcxxrt ~amd64
+sys-libs/llvm-libunwind ~amd64
 
