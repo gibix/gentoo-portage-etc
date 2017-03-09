@@ -61,7 +61,6 @@
 =net-analyzer/metasploit-4.12.16 ~amd64
 =net-analyzer/set-6.0 ~amd64
 =net-analyzer/sslstrip-0.9-r1 ~amd64
-=net-wireless/aircrack-ng-1.2_rc4 ~amd64
 =net-wireless/airsnort-0.2.7e ~amd64
 =net-wireless/fern-wifi-cracker-2.2 ~amd64
 =net-wireless/mdk-3.6-r1 ~amd64
